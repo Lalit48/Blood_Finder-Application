@@ -27,3 +27,5 @@ This image appears to be a screenshot of a blood donation request or confirmatio
 The page also includes two buttons: "ACCEPT" and "REJECT". It seems that the user has selected the "ACCEPT" button, indicating their willingness to donate blood to the blood finder.
 
 Overall, this screenshot suggests that a blood donor (Lalit Sudhir Khekale) has accepted a request for blood donation from a blood finder with blood group O+. The page provides the contact information of the blood donor, which can be used to coordinate the blood donation.
+
+DRIVE LINK - https://drive.google.com/drive/folders/1Kj3PR8ODWtHfZ5hK86GQyjtYjR3QHRfG?usp=sharing
